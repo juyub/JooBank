@@ -1,4 +1,4 @@
-<JSP와 DB Link를 이용한 openBank 시스템> <br>
+# [JSP] DB Link를 이용한 openBank 시스템 <br>
 <img src="https://github.com/juyub/JooBank/assets/126839881/81b6a124-67e6-4cc8-bb28-bd1ee75b14df" width="500" /> <br>
 
 - 구성 <br>
